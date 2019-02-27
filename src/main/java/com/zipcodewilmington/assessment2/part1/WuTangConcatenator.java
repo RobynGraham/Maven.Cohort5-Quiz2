@@ -5,14 +5,25 @@ public class WuTangConcatenator {
     }
 
     public Boolean isWu() {
-        return null;
+
+//        int input = new input;
+
+//        if(input%3==0){
+
+        return true;
     }
 
     public Boolean isTang() {
-        return null;
+//        int input = new input;
+
+//        if (input%5==0){
+
+            return true;
     }
 
     public Boolean isWuTang() {
-        return null;
+//        int input = new input;
+//            if(input%3 = 0 && input%5 ==0){
+            return true;
     }
 }
